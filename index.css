@@ -481,9 +481,21 @@ html {
     line-height: 25px;
     font-size: 1.7rem;
     padding-right: 250px;
+    /* margin-right: 250px; */
     letter-spacing: 0.5px;
     
 }
+
+
+/* .info-preparations-container .info-p {
+    color: var(--text);
+    line-height: 25px;
+    font-size: 1.7rem;
+    padding-right: 250px;
+    margin-right: 250px;
+    letter-spacing: 0.5px;
+    
+} */
 
 .things-preparations-container {
     display: flex;
